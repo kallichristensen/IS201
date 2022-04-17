@@ -2,10 +2,10 @@
     float: right;
 }
 .background {
-    background-image: url('../images/img/background3.jpg');
+    background-image: url('../images/img/background4.jpg');
 }
 .fontcolor {
-    color: rgb(8, 8, 77);
+    color: rgb(255, 255, 255);
 }
 .fontstyle {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -14,13 +14,13 @@
     text-align: center;
 }
 a {
-    color: brown;
+    color: rgb(0, 27, 115);
     text-decoration: none;}
 
 a:hover {text-decoration: underline;}
 
 .resumediv {
-    background-color: rgb(196, 242, 255);
+    background-color: ivory;
 
 }
 
@@ -40,5 +40,11 @@ a:hover {text-decoration: underline;}
 .imgalign {
     margin: auto;
     width: 73%;
-  
+}
+.myfooter {
+    background-color: rgb(10, 133, 86) ;
+    color: white ;
+}
+#linkoverride {
+    color: white;
 }
